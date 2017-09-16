@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':main_android_lib', ':java_li', ':net_lib'

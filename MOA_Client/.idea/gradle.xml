@@ -9,6 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/java_li" />
+            <option value="$PROJECT_DIR$/main_android_lib" />
+            <option value="$PROJECT_DIR$/net_lib" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
